@@ -5,9 +5,5 @@ it is not easy to find the line number clearly.
 Also I think is a waste of time that you need to check the original file to
  find the exacto position.
 
- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
- It is easy to have errors and typos, and also it is common to ruin something that 
- was already working trying to make it work better. In common cases, the problem is very
- easy to solve, and with the history available, is more easy to undo and find the problem
  
